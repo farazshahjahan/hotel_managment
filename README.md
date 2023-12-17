@@ -34,9 +34,7 @@ Database:- MYSQL for Storing Transaction history
 
 ![Screenshot 2022-07-30 171206](https://user-images.githubusercontent.com/84500245/182027877-d9a9cae5-00f4-48a2-9371-6b9aeaeab1cf.jpg)
 
-# Admin Page
 
-![Screenshot 2022-07-31 182302](https://user-images.githubusercontent.com/84500245/182027881-fc9c487f-6796-412f-9b2e-86ad38ef034a.jpg)
 
 # Home Page
 
